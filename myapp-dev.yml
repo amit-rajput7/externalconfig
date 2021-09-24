@@ -1,1 +1,2 @@
-testmessage=test
+test:
+  message : test
